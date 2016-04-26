@@ -1,0 +1,762 @@
+[
+  {
+    "text": "I can't see a thing. What just happened? Better open fire! [click click click click] Dang!",
+    "url": "http://i1.theportalwiki.net/img/2/20/Defective_Turret_sp_sabotage_factory_defect_chat01.wav"
+  },
+  {
+    "text": "Oh thank god. You saved my bacon, pal. Where we going? Is this a jailbreak? I can't see a thing.",
+    "url": "http://i1.theportalwiki.net/img/2/20/Defective_Turret_sp_sabotage_factory_defect_chat02.wav"
+  },
+  {
+    "text": "Yeah! Let's do this!",
+    "url": "http://i1.theportalwiki.net/img/1/15/Defective_Turret_sp_sabotage_factory_defect_chat03.wav"
+  },
+  {
+    "text": "Yeah, let's do this.",
+    "url": "http://i1.theportalwiki.net/img/a/a7/Defective_Turret_sp_sabotage_factory_defect_chat04.wav"
+  },
+  {
+    "text": "Yeah, alright.",
+    "url": "http://i1.theportalwiki.net/img/8/8c/Defective_Turret_sp_sabotage_factory_defect_chat05.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/e/e5/Defective_Turret_sp_sabotage_factory_defect_dryfire01.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/3/31/Defective_Turret_sp_sabotage_factory_defect_dryfire02.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/9/93/Defective_Turret_sp_sabotage_factory_defect_dryfire03.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/7/75/Defective_Turret_sp_sabotage_factory_defect_dryfire04.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/f/f3/Defective_Turret_sp_sabotage_factory_defect_dryfire05.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/e/e3/Defective_Turret_sp_sabotage_factory_defect_dryfire06.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/a/a1/Defective_Turret_sp_sabotage_factory_defect_dryfire07.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/3/35/Defective_Turret_sp_sabotage_factory_defect_dryfire08.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/1/17/Defective_Turret_sp_sabotage_factory_defect_dryfire09.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/a/ad/Defective_Turret_sp_sabotage_factory_defect_dryfire10.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/c/c4/Defective_Turret_sp_sabotage_factory_defect_dryfire11.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/0/0c/Defective_Turret_sp_sabotage_factory_defect_dryfire12.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/6/65/Defective_Turret_sp_sabotage_factory_defect_dryfire13.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/b/b5/Defective_Turret_sp_sabotage_factory_defect_dryfire14.wav"
+  },
+  {
+    "text": "clickclickclick",
+    "url": "http://i1.theportalwiki.net/img/b/bd/Defective_Turret_sp_sabotage_factory_defect_dryfire15.wav"
+  },
+  {
+    "text": "Fantastic.",
+    "url": "http://i1.theportalwiki.net/img/f/fd/Defective_Turret_sp_sabotage_factory_defect_fail01.wav"
+  },
+  {
+    "text": "No, wait, wait!",
+    "url": "http://i1.theportalwiki.net/img/9/90/Defective_Turret_sp_sabotage_factory_defect_fail02.wav"
+  },
+  {
+    "text": "Hey, hold on now WHOA WHOA WHOA!",
+    "url": "http://i1.theportalwiki.net/img/5/5a/Defective_Turret_sp_sabotage_factory_defect_fail03.wav"
+  },
+  {
+    "text": "Oh, this is ridiculous!",
+    "url": "http://i1.theportalwiki.net/img/e/e5/Defective_Turret_sp_sabotage_factory_defect_fail04.wav"
+  },
+  {
+    "text": "Oh, come on!",
+    "url": "http://i1.theportalwiki.net/img/7/76/Defective_Turret_sp_sabotage_factory_defect_fail05.wav"
+  },
+  {
+    "text": "What are you doing no no no no no!",
+    "url": "http://i1.theportalwiki.net/img/f/fc/Defective_Turret_sp_sabotage_factory_defect_fail06.wav"
+  },
+  {
+    "text": "Oh, this is ridiculous!",
+    "url": "http://i1.theportalwiki.net/img/7/7e/Defective_Turret_sp_sabotage_factory_defect_fail07.wav"
+  },
+  {
+    "text": "Well, I tried.",
+    "url": "http://i1.theportalwiki.net/img/b/bc/Defective_Turret_sp_sabotage_factory_defect_fail08.wav"
+  },
+  {
+    "text": "Well, can't win 'em all...",
+    "url": "http://i1.theportalwiki.net/img/8/87/Defective_Turret_sp_sabotage_factory_defect_fail09.wav"
+  },
+  {
+    "text": "Nooooooooo...",
+    "url": "http://i1.theportalwiki.net/img/4/47/Defective_Turret_sp_sabotage_factory_defect_fail10.wav"
+  },
+  {
+    "text": "You can't fire me I quit!",
+    "url": "http://i1.theportalwiki.net/img/e/e9/Defective_Turret_sp_sabotage_factory_defect_fail11.wav"
+  },
+  {
+    "text": "Oh, come on, you guys!",
+    "url": "http://i1.theportalwiki.net/img/4/4c/Defective_Turret_sp_sabotage_factory_defect_fail12.wav"
+  },
+  {
+    "text": "Oh, this is just PERFECT!",
+    "url": "http://i1.theportalwiki.net/img/d/d7/Defective_Turret_sp_sabotage_factory_defect_fail13.wav"
+  },
+  {
+    "text": "Oh, come ON!",
+    "url": "http://i1.theportalwiki.net/img/2/21/Defective_Turret_sp_sabotage_factory_defect_fail14.wav"
+  },
+  {
+    "text": "Aw, come on!",
+    "url": "http://i1.theportalwiki.net/img/6/6a/Defective_Turret_sp_sabotage_factory_defect_fail15.wav"
+  },
+  {
+    "text": "This isn't fair!",
+    "url": "http://i1.theportalwiki.net/img/b/b1/Defective_Turret_sp_sabotage_factory_defect_fail16.wav"
+  },
+  {
+    "text": "Give me another channnnce!",
+    "url": "http://i1.theportalwiki.net/img/6/62/Defective_Turret_sp_sabotage_factory_defect_fail17.wav"
+  },
+  {
+    "text": "No no wait wait waitAGGGHHHH",
+    "url": "http://i1.theportalwiki.net/img/9/90/Defective_Turret_sp_sabotage_factory_defect_fail18.wav"
+  },
+  {
+    "text": "Nonononononono!",
+    "url": "http://i1.theportalwiki.net/img/b/b9/Defective_Turret_sp_sabotage_factory_defect_fail19.wav"
+  },
+  {
+    "text": "Ah, come on!",
+    "url": "http://i1.theportalwiki.net/img/f/f8/Defective_Turret_sp_sabotage_factory_defect_fail20.wav"
+  },
+  {
+    "text": "Hey, hold on whoa whoa whoa whoa!",
+    "url": "http://i1.theportalwiki.net/img/9/97/Defective_Turret_sp_sabotage_factory_defect_fail21.wav"
+  },
+  {
+    "text": "Hey wait wait wait wait wait wait!",
+    "url": "http://i1.theportalwiki.net/img/9/9a/Defective_Turret_sp_sabotage_factory_defect_fail22.wav"
+  },
+  {
+    "text": "Hey wait wait wait wait wait wait!",
+    "url": "http://i1.theportalwiki.net/img/6/6c/Defective_Turret_sp_sabotage_factory_defect_fail23.wav"
+  },
+  {
+    "text": "No no, no no, no no, whoa whoa, no, whoa!",
+    "url": "http://i1.theportalwiki.net/img/9/99/Defective_Turret_sp_sabotage_factory_defect_fail24.wav"
+  },
+  {
+    "text": "Where we going? What are we doing? Agh!",
+    "url": "http://i1.theportalwiki.net/img/f/f6/Defective_Turret_sp_sabotage_factory_defect_fail25.wav"
+  },
+  {
+    "text": "Hey, where are we goingNOOOOOOOOOOOOO!",
+    "url": "http://i1.theportalwiki.net/img/4/48/Defective_Turret_sp_sabotage_factory_defect_fail26.wav"
+  },
+  {
+    "text": "You messed with the wrong turret!",
+    "url": "http://i1.theportalwiki.net/img/0/01/Defective_Turret_sp_sabotage_factory_defect_fail27.wav"
+  },
+  {
+    "text": "Heh heh heh heh...",
+    "url": "http://i1.theportalwiki.net/img/a/ab/Defective_Turret_sp_sabotage_factory_defect_laugh01.wav"
+  },
+  {
+    "text": "Moo hoo ha ha ha ha",
+    "url": "http://i1.theportalwiki.net/img/4/49/Defective_Turret_sp_sabotage_factory_defect_laugh02.wav"
+  },
+  {
+    "text": "Moo hoo ha ha ha ha...",
+    "url": "http://i1.theportalwiki.net/img/3/3b/Defective_Turret_sp_sabotage_factory_defect_laugh03.wav"
+  },
+  {
+    "text": "Heh heh heh heh...",
+    "url": "http://i1.theportalwiki.net/img/5/5f/Defective_Turret_sp_sabotage_factory_defect_laugh04.wav"
+  },
+  {
+    "text": "Moo hoo ha ha ha ha...",
+    "url": "http://i1.theportalwiki.net/img/9/94/Defective_Turret_sp_sabotage_factory_defect_laugh05.wav"
+  },
+  {
+    "text": "Heh heh heh heh...",
+    "url": "http://i1.theportalwiki.net/img/b/ba/Defective_Turret_sp_sabotage_factory_defect_laugh06.wav"
+  },
+  {
+    "text": "Yeah! Ha ha ha!",
+    "url": "http://i1.theportalwiki.net/img/f/f9/Defective_Turret_sp_sabotage_factory_defect_laugh07.wav"
+  },
+  {
+    "text": "Heh heh heh...",
+    "url": "http://i1.theportalwiki.net/img/6/64/Defective_Turret_sp_sabotage_factory_defect_pass01.wav"
+  },
+  {
+    "text": "Really? Alright.",
+    "url": "http://i1.theportalwiki.net/img/3/3d/Defective_Turret_sp_sabotage_factory_defect_pass02.wav"
+  },
+  {
+    "text": "Yes indeed. Yes indeed.",
+    "url": "http://i1.theportalwiki.net/img/2/21/Defective_Turret_sp_sabotage_factory_defect_pass03.wav"
+  },
+  {
+    "text": "Alright. Your funeral, pal.",
+    "url": "http://i1.theportalwiki.net/img/c/c7/Defective_Turret_sp_sabotage_factory_defect_pass04.wav"
+  },
+  {
+    "text": "So... we're all supposed to be blind, then, right? It's not just me? Alright, fantastic.",
+    "url": "http://i1.theportalwiki.net/img/9/9c/Defective_Turret_sp_sabotage_factory_defect_pass05.wav"
+  },
+  {
+    "text": "I, uh... don't have any bullets. Are you gonna give me any bullets? Are the bullets up there?",
+    "url": "http://i1.theportalwiki.net/img/6/6b/Defective_Turret_sp_sabotage_factory_defect_pass06.wav"
+  },
+  {
+    "text": "Where do I get my gun?",
+    "url": "http://i1.theportalwiki.net/img/6/6c/Defective_Turret_sp_sabotage_factory_defect_pass07.wav"
+  },
+  {
+    "text": "Do, uh.... we get some eyes at some point?",
+    "url": "http://i1.theportalwiki.net/img/d/d9/Defective_Turret_sp_sabotage_factory_defect_pass08.wav"
+  },
+  {
+    "text": "Yeah, I'm uh... I'm a bad man!",
+    "url": "http://i1.theportalwiki.net/img/6/64/Defective_Turret_sp_sabotage_factory_defect_pass09.wav"
+  },
+  {
+    "text": "I, uh... I am a bad man.",
+    "url": "http://i1.theportalwiki.net/img/8/88/Defective_Turret_sp_sabotage_factory_defect_pass10.wav"
+  },
+  {
+    "text": "Watch and learn, everybody. Watch and learn.",
+    "url": "http://i1.theportalwiki.net/img/8/8c/Defective_Turret_sp_sabotage_factory_defect_prerange01.wav"
+  },
+  {
+    "text": "Alright, check THIS out.",
+    "url": "http://i1.theportalwiki.net/img/f/f0/Defective_Turret_sp_sabotage_factory_defect_prerange02.wav"
+  },
+  {
+    "text": "Alright, stand back, everybody.",
+    "url": "http://i1.theportalwiki.net/img/e/ea/Defective_Turret_sp_sabotage_factory_defect_prerange03.wav"
+  },
+  {
+    "text": "Time to watch the master.",
+    "url": "http://i1.theportalwiki.net/img/5/5e/Defective_Turret_sp_sabotage_factory_defect_prerange04.wav"
+  },
+  {
+    "text": "Watch and learn, everyone. Watch and learn.",
+    "url": "http://i1.theportalwiki.net/img/7/78/Defective_Turret_sp_sabotage_factory_defect_prerange05.wav"
+  },
+  {
+    "text": "So what am I, uh, supposed to do here?",
+    "url": "http://i1.theportalwiki.net/img/d/de/Defective_Turret_sp_sabotage_factory_defect_prerange06.wav"
+  },
+  {
+    "text": "Identify yourself or I will shoot.",
+    "url": "http://i1.theportalwiki.net/img/9/99/Defective_Turret_sp_sabotage_factory_defect_prerange07.wav"
+  },
+  {
+    "text": "Well, I gave it everything I could. Can't ask for more than that.",
+    "url": "http://i1.theportalwiki.net/img/e/e3/Defective_Turret_sp_sabotage_factory_defect_postrange01.wav"
+  },
+  {
+    "text": "Uhhhh... Blam! Blam blam blam! I'm not defective!",
+    "url": "http://i1.theportalwiki.net/img/8/8a/Defective_Turret_sp_sabotage_factory_defect_postrange02.wav"
+  },
+  {
+    "text": "Well, I did my best.",
+    "url": "http://i1.theportalwiki.net/img/1/1b/Defective_Turret_sp_sabotage_factory_defect_postrange03.wav"
+  },
+  {
+    "text": "Oh no, I'm one of the bad ones, aren't I?",
+    "url": "http://i1.theportalwiki.net/img/3/35/Defective_Turret_sp_sabotage_factory_defect_postrange04.wav"
+  },
+  {
+    "text": "Hey! Squeaky-voice! Gimme some of your bullets!",
+    "url": "http://i1.theportalwiki.net/img/3/3d/Defective_Turret_sp_sabotage_factory_defect_postrange05.wav"
+  },
+  {
+    "text": "Can I get some bullets here? Anybody got bullets?",
+    "url": "http://i1.theportalwiki.net/img/7/74/Defective_Turret_sp_sabotage_factory_defect_postrange06.wav"
+  },
+  {
+    "text": "Anyone got any bullets?",
+    "url": "http://i1.theportalwiki.net/img/e/eb/Defective_Turret_sp_sabotage_factory_defect_postrange07.wav"
+  },
+  {
+    "text": "Well, I tried.",
+    "url": "http://i1.theportalwiki.net/img/e/e0/Defective_Turret_sp_sabotage_factory_defect_postrange08.wav"
+  },
+  {
+    "text": "Uhhh, no bullets. Sorry.",
+    "url": "http://i1.theportalwiki.net/img/b/b6/Defective_Turret_sp_sabotage_factory_defect_postrange09.wav"
+  },
+  {
+    "text": "No can do.",
+    "url": "http://i1.theportalwiki.net/img/a/ae/Defective_Turret_sp_sabotage_factory_defect_postrange10.wav"
+  },
+  {
+    "text": "Uhhh, no bullets. Sorry.",
+    "url": "http://i1.theportalwiki.net/img/a/a0/Defective_Turret_sp_sabotage_factory_defect_postrange11.wav"
+  },
+  {
+    "text": "Hey! Squeaky-voice! How'd I do?",
+    "url": "http://i1.theportalwiki.net/img/2/20/Defective_Turret_sp_sabotage_factory_defect_postrange12.wav"
+  },
+  {
+    "text": "YEAH! What's happening?",
+    "url": "http://i1.theportalwiki.net/img/1/14/Defective_Turret_sp_sabotage_factory_defect_postrange13.wav"
+  },
+  {
+    "text": "Yeah, I GOT it, didn't I?",
+    "url": "http://i1.theportalwiki.net/img/e/ea/Defective_Turret_sp_sabotage_factory_defect_postrange14.wav"
+  },
+  {
+    "text": "Yeah.",
+    "url": "http://i1.theportalwiki.net/img/a/a6/Defective_Turret_sp_sabotage_factory_defect_postrange15.wav"
+  },
+  {
+    "text": "Yeah.",
+    "url": "http://i1.theportalwiki.net/img/4/41/Defective_Turret_sp_sabotage_factory_defect_postrange16.wav"
+  },
+  {
+    "text": "Did I hit it? I hit it, didn't I?",
+    "url": "http://i1.theportalwiki.net/img/5/54/Defective_Turret_sp_sabotage_factory_defect_postrange17.wav"
+  },
+  {
+    "text": "Yeah. Clickety click click. Right on the money.",
+    "url": "http://i1.theportalwiki.net/img/e/e6/Defective_Turret_sp_sabotage_factory_defect_postrange18.wav"
+  },
+  {
+    "text": "Shootin' blanks every time, ALL the time.",
+    "url": "http://i1.theportalwiki.net/img/b/bf/Defective_Turret_sp_sabotage_factory_defect_postrange19.wav"
+  },
+  {
+    "text": "Yeah, that's right. Little bullseye.",
+    "url": "http://i1.theportalwiki.net/img/a/a6/Defective_Turret_sp_sabotage_factory_defect_postrange20.wav"
+  },
+  {
+    "text": "What'd I hit?",
+    "url": "http://i1.theportalwiki.net/img/b/b9/Defective_Turret_sp_sabotage_factory_defect_postrange21.wav"
+  },
+  {
+    "text": "Well, can't win 'em all.",
+    "url": "http://i1.theportalwiki.net/img/4/43/Defective_Turret_sp_sabotage_factory_defect_postrange22.wav"
+  },
+  {
+    "text": "How was that?",
+    "url": "http://i1.theportalwiki.net/img/3/31/Defective_Turret_sp_sabotage_factory_defect_postrange23.wav"
+  },
+  {
+    "text": "Standing down.",
+    "url": "http://i1.theportalwiki.net/img/1/10/Defective_Turret_sp_sabotage_factory_defect_postrange24.wav"
+  },
+  {
+    "text": "I'm trouble.",
+    "url": "http://i1.theportalwiki.net/img/4/42/Defective_Turret_sp_sabotage_factory_defect_postrange25.wav"
+  },
+  {
+    "text": "Hello.",
+    "url": "http://i1.theportalwiki.net/img/f/f7/Defective_Turret_sp_sabotage_factory_defect_test01.wav"
+  },
+  {
+    "text": "Yeah, how ya doin'.",
+    "url": "http://i1.theportalwiki.net/img/f/f5/Defective_Turret_sp_sabotage_factory_defect_test02.wav"
+  },
+  {
+    "text": "Pleased to meetcha.",
+    "url": "http://i1.theportalwiki.net/img/0/0d/Defective_Turret_sp_sabotage_factory_defect_test03.wav"
+  },
+  {
+    "text": "Yeah, what?",
+    "url": "http://i1.theportalwiki.net/img/f/f4/Defective_Turret_sp_sabotage_factory_defect_test04.wav"
+  },
+  {
+    "text": "Yeah! Let's do this!",
+    "url": "http://i1.theportalwiki.net/img/2/2d/Defective_Turret_sp_sabotage_factory_defect_test05.wav"
+  },
+  {
+    "text": "Who said that?",
+    "url": "http://i1.theportalwiki.net/img/e/e6/Defective_Turret_sp_sabotage_factory_defect_test06.wav"
+  },
+  {
+    "text": "Yeah, what?",
+    "url": "http://i1.theportalwiki.net/img/3/37/Defective_Turret_sp_sabotage_factory_defect_test07.wav"
+  },
+  {
+    "text": "Put me in the game, coach!",
+    "url": "http://i1.theportalwiki.net/img/5/5f/Defective_Turret_sp_sabotage_factory_defect_test08.wav"
+  },
+  {
+    "text": "Hello. Hello. Hell-- Aw, crap...",
+    "url": "http://i1.theportalwiki.net/img/2/2c/Defective_Turret_sp_sabotage_factory_defect_test09.wav"
+  },
+  {
+    "text": "Yeah, hey, how ya doin'?",
+    "url": "http://i1.theportalwiki.net/img/6/6d/Defective_Turret_sp_sabotage_factory_defect_test10.wav"
+  },
+  {
+    "text": "I'm gonna make you proud!",
+    "url": "http://i1.theportalwiki.net/img/6/63/Defective_Turret_sp_sabotage_factory_defect_test11.wav"
+  },
+  {
+    "text": "Yeah, how ya doin'?",
+    "url": "http://i1.theportalwiki.net/img/f/f2/Defective_Turret_sp_sabotage_factory_defect_test12.wav"
+  },
+  {
+    "text": "Um.",
+    "url": "http://i1.theportalwiki.net/img/1/18/Defective_Turret_sp_sabotage_factory_defect_test13.wav"
+  },
+  {
+    "text": "Hello.",
+    "url": "http://i1.theportalwiki.net/img/3/31/Defective_Turret_sp_sabotage_factory_defect_test14.wav"
+  },
+  {
+    "text": "Crap.",
+    "url": "http://i1.theportalwiki.net/img/a/ae/Defective_Turret_sp_sabotage_factory_defect_test15.wav"
+  },
+  {
+    "text": "Uh, yeah, what?",
+    "url": "http://i1.theportalwiki.net/img/7/7e/Defective_Turret_sp_sabotage_factory_defect_test16.wav"
+  },
+  {
+    "text": "I'm not defective!",
+    "url": "http://i1.theportalwiki.net/img/6/61/Defective_Turret_sp_sabotage_factory_defect_test17.wav"
+  },
+  {
+    "text": "I'm not defective!",
+    "url": "http://i1.theportalwiki.net/img/4/42/Defective_Turret_sp_sabotage_factory_defect_test18.wav"
+  },
+  {
+    "text": "It's my big chance!",
+    "url": "http://i1.theportalwiki.net/img/b/b0/Defective_Turret_glados_battle_defect_arrive01.wav"
+  },
+  {
+    "text": "I won't let you down!",
+    "url": "http://i1.theportalwiki.net/img/b/bb/Defective_Turret_glados_battle_defect_arrive02.wav"
+  },
+  {
+    "text": "You won't regret this!",
+    "url": "http://i1.theportalwiki.net/img/c/cb/Defective_Turret_glados_battle_defect_arrive03.wav"
+  },
+  {
+    "text": "Now it's broken turret's time to shine!",
+    "url": "http://i1.theportalwiki.net/img/6/6a/Defective_Turret_glados_battle_defect_arrive04.wav"
+  },
+  {
+    "text": "Get ready for it!",
+    "url": "http://i1.theportalwiki.net/img/8/84/Defective_Turret_glados_battle_defect_arrive05.wav"
+  },
+  {
+    "text": "You asked for this!",
+    "url": "http://i1.theportalwiki.net/img/3/37/Defective_Turret_glados_battle_defect_arrive06.wav"
+  },
+  {
+    "text": "Here it comes, pal!",
+    "url": "http://i1.theportalwiki.net/img/c/c1/Defective_Turret_glados_battle_defect_arrive07.wav"
+  },
+  {
+    "text": "Locked and loaded!",
+    "url": "http://i1.theportalwiki.net/img/4/41/Defective_Turret_glados_battle_defect_arrive08.wav"
+  },
+  {
+    "text": "Ha ha! Gotcha right where I want ya!",
+    "url": "http://i1.theportalwiki.net/img/c/c1/Defective_Turret_glados_battle_defect_arrive09.wav"
+  },
+  {
+    "text": "Oh.",
+    "url": "http://i1.theportalwiki.net/img/4/4e/Defective_Turret_glados_battle_defect_arrive10.wav"
+  },
+  {
+    "text": "Ah, crap.",
+    "url": "http://i1.theportalwiki.net/img/0/04/Defective_Turret_glados_battle_defect_arrive11.wav"
+  },
+  {
+    "text": "Agggh, not again!",
+    "url": "http://i1.theportalwiki.net/img/2/21/Defective_Turret_glados_battle_defect_arrive12.wav"
+  },
+  {
+    "text": "Ohhh, not now!",
+    "url": "http://i1.theportalwiki.net/img/5/5c/Defective_Turret_glados_battle_defect_arrive13.wav"
+  },
+  {
+    "text": "I'm fired, aren't I?",
+    "url": "http://i1.theportalwiki.net/img/3/35/Defective_Turret_glados_battle_defect_arrive14.wav"
+  },
+  {
+    "text": "This is trouble.",
+    "url": "http://i1.theportalwiki.net/img/9/97/Defective_Turret_glados_battle_defect_arrive15.wav"
+  },
+  {
+    "text": "Oh, this ain't good.",
+    "url": "http://i1.theportalwiki.net/img/8/82/Defective_Turret_glados_battle_defect_arrive16.wav"
+  },
+  {
+    "text": "Watch out, pal!",
+    "url": "http://i1.theportalwiki.net/img/7/70/Defective_Turret_glados_battle_defect_arrive17.wav"
+  },
+  {
+    "text": "Agggh! I'm on fire!",
+    "url": "http://i1.theportalwiki.net/img/9/9f/Defective_Turret_glados_battle_defect_arrive18.wav"
+  },
+  {
+    "text": "Die!",
+    "url": "http://i1.theportalwiki.net/img/8/88/Defective_Turret_glados_battle_defect_arrive19.wav"
+  },
+  {
+    "text": "We're back!",
+    "url": "http://i1.theportalwiki.net/img/4/44/Defective_Turret_finale02_turret_defect_return01.wav"
+  },
+  {
+    "text": "Hi there!",
+    "url": "http://i1.theportalwiki.net/img/9/96/Defective_Turret_finale02_turret_defect_return02.wav"
+  },
+  {
+    "text": "Back again!",
+    "url": "http://i1.theportalwiki.net/img/b/b3/Defective_Turret_finale02_turret_defect_return03.wav"
+  },
+  {
+    "text": "Hi again!",
+    "url": "http://i1.theportalwiki.net/img/6/63/Defective_Turret_finale02_turret_defect_return04.wav"
+  },
+  {
+    "text": "Well, hello, stranger!",
+    "url": "http://i1.theportalwiki.net/img/e/e2/Defective_Turret_finale02_turret_defect_return05.wav"
+  },
+  {
+    "text": "Hello there!",
+    "url": "http://i1.theportalwiki.net/img/1/1a/Defective_Turret_finale02_turret_defect_return06.wav"
+  },
+  {
+    "text": "This time is OUR time.",
+    "url": "http://i1.theportalwiki.net/img/2/2d/Defective_Turret_finale02_turret_defect_return07.wav"
+  },
+  {
+    "text": "This time...",
+    "url": "http://i1.theportalwiki.net/img/3/32/Defective_Turret_finale02_turret_defect_return08.wav"
+  },
+  {
+    "text": "Second time's a charm...",
+    "url": "http://i1.theportalwiki.net/img/1/1b/Defective_Turret_finale02_turret_defect_return09.wav"
+  },
+  {
+    "text": "Howdy, stranger! We're back!",
+    "url": "http://i1.theportalwiki.net/img/5/56/Defective_Turret_finale02_turret_defect_return10.wav"
+  },
+  {
+    "text": "Annnnd we're back!",
+    "url": "http://i1.theportalwiki.net/img/0/05/Defective_Turret_finale02_turret_defect_return11.wav"
+  },
+  {
+    "text": "Hi there!",
+    "url": "http://i1.theportalwiki.net/img/c/c2/Defective_Turret_finale02_turret_defect_return12.wav"
+  },
+  {
+    "text": "Back, and deadlier than ever!",
+    "url": "http://i1.theportalwiki.net/img/0/0f/Defective_Turret_finale02_turret_defect_return13.wav"
+  },
+  {
+    "text": "Thought you'd seen the last of us, didn't ya?",
+    "url": "http://i1.theportalwiki.net/img/4/48/Defective_Turret_finale02_turret_defect_return14.wav"
+  },
+  {
+    "text": "Yeah.",
+    "url": "http://i1.theportalwiki.net/img/a/a7/Defective_Turret_finale02_turret_defect_return15.wav"
+  },
+  {
+    "text": "Hurt me once, shame on me. Hurt me twice...",
+    "url": "http://i1.theportalwiki.net/img/1/1e/Defective_Turret_finale02_turret_defect_return16.wav"
+  },
+  {
+    "text": "Dang!",
+    "url": "http://i1.theportalwiki.net/img/4/4d/Defective_Turret_finale02_turret_return_defect_fail01.wav"
+  },
+  {
+    "text": "Agggh...",
+    "url": "http://i1.theportalwiki.net/img/5/52/Defective_Turret_finale02_turret_return_defect_fail02.wav"
+  },
+  {
+    "text": "Crap!",
+    "url": "http://i1.theportalwiki.net/img/5/59/Defective_Turret_finale02_turret_return_defect_fail03.wav"
+  },
+  {
+    "text": "Rgggh!",
+    "url": "http://i1.theportalwiki.net/img/3/37/Defective_Turret_finale02_turret_return_defect_fail04.wav"
+  },
+  {
+    "text": "Crap!",
+    "url": "http://i1.theportalwiki.net/img/7/7a/Defective_Turret_finale02_turret_return_defect_fail05.wav"
+  },
+  {
+    "text": "Dang!",
+    "url": "http://i1.theportalwiki.net/img/6/69/Defective_Turret_finale02_turret_return_defect_fail06.wav"
+  },
+  {
+    "text": "Dang.",
+    "url": "http://i1.theportalwiki.net/img/1/13/Defective_Turret_finale02_turret_return_defect_fail07.wav"
+  },
+  {
+    "text": "Dang.",
+    "url": "http://i1.theportalwiki.net/img/9/98/Defective_Turret_finale02_turret_return_defect_fail08.wav"
+  },
+  {
+    "text": "I thought we fixed that.",
+    "url": "http://i1.theportalwiki.net/img/4/47/Defective_Turret_finale02_turret_return_defect_fail09.wav"
+  },
+  {
+    "text": "Awwww, come on.",
+    "url": "http://i1.theportalwiki.net/img/7/79/Defective_Turret_finale02_turret_return_defect_fail10.wav"
+  },
+  {
+    "text": "What's a guy gotta do to get some bullets around here?",
+    "url": "http://i1.theportalwiki.net/img/c/ca/Defective_Turret_finale02_turret_return_defect_fail11.wav"
+  },
+  {
+    "text": "Ah for Pete's sake!",
+    "url": "http://i1.theportalwiki.net/img/b/ba/Defective_Turret_finale02_turret_return_defect_fail12.wav"
+  },
+  {
+    "text": "Nope. Still can't see.",
+    "url": "http://i1.theportalwiki.net/img/7/76/Defective_Turret_finale02_turret_return_defect_fail13.wav"
+  },
+  {
+    "text": "Yep. Still blind.",
+    "url": "http://i1.theportalwiki.net/img/5/53/Defective_Turret_finale02_turret_return_defect_fail14.wav"
+  },
+  {
+    "text": "Click click click! Still defective!",
+    "url": "http://i1.theportalwiki.net/img/8/8d/Defective_Turret_finale02_turret_return_defect_fail15.wav"
+  },
+  {
+    "text": "Yeah, that's right! Still defective!",
+    "url": "http://i1.theportalwiki.net/img/9/9e/Defective_Turret_finale02_turret_return_defect_fail16.wav"
+  },
+  {
+    "text": "Yeah! Still not working.",
+    "url": "http://i1.theportalwiki.net/img/f/fb/Defective_Turret_finale02_turret_return_defect_fail17.wav"
+  },
+  {
+    "text": "Yeah! Non-lethal as ever.",
+    "url": "http://i1.theportalwiki.net/img/3/35/Defective_Turret_finale02_turret_return_defect_fail18.wav"
+  },
+  {
+    "text": "Can't. See. A. Thing.",
+    "url": "http://i1.theportalwiki.net/img/e/e7/Defective_Turret_finale02_turret_return_defect_fail19.wav"
+  },
+  {
+    "text": "Absolutely no improvement.",
+    "url": "http://i1.theportalwiki.net/img/f/fe/Defective_Turret_finale02_turret_return_defect_fail20.wav"
+  },
+  {
+    "text": "Not getting better with age!",
+    "url": "http://i1.theportalwiki.net/img/1/17/Defective_Turret_finale02_turret_return_defect_fail21.wav"
+  },
+  {
+    "text": "This is just getting embarrassing.",
+    "url": "http://i1.theportalwiki.net/img/c/cb/Defective_Turret_finale02_turret_return_defect_fail22.wav"
+  },
+  {
+    "text": "Alright, you can go.",
+    "url": "http://i1.theportalwiki.net/img/3/31/Defective_Turret_finale02_turret_return_defect_fail23.wav"
+  },
+  {
+    "text": "[sigh] Don't tell anyone about this.",
+    "url": "http://i1.theportalwiki.net/img/d/db/Defective_Turret_finale02_turret_return_defect_fail24.wav"
+  },
+  {
+    "text": "Okay!",
+    "url": "http://i1.theportalwiki.net/img/d/da/Defective_Turret_finale02_turret_return_defect_fail25.wav"
+  },
+  {
+    "text": "Dang! All right, if anyone asks, I killed you.",
+    "url": "http://i1.theportalwiki.net/img/8/85/Defective_Turret_finale02_turret_return_defect_fail26.wav"
+  },
+  {
+    "text": "Hey, be a sport lady, and just tell him I killed you.",
+    "url": "http://i1.theportalwiki.net/img/8/84/Defective_Turret_finale02_turret_return_defect_fail27.wav"
+  },
+  {
+    "text": "Well played.",
+    "url": "http://i1.theportalwiki.net/img/a/a6/Defective_Turret_finale02_turret_return_defect_fail28.wav"
+  },
+  {
+    "text": "Well, I tried. Best of luck!",
+    "url": "http://i1.theportalwiki.net/img/5/5b/Defective_Turret_finale02_turret_return_defect_goodbye01.wav"
+  },
+  {
+    "text": "Best of luck, lady!",
+    "url": "http://i1.theportalwiki.net/img/a/a6/Defective_Turret_finale02_turret_return_defect_goodbye02.wav"
+  },
+  {
+    "text": "Hey, safe travels, there.",
+    "url": "http://i1.theportalwiki.net/img/d/db/Defective_Turret_finale02_turret_return_defect_goodbye03.wav"
+  },
+  {
+    "text": "Hey, nice potato!",
+    "url": "http://i1.theportalwiki.net/img/4/40/Defective_Turret_finale02_turret_return_defect_goodbye04.wav"
+  },
+  {
+    "text": "Like the potato!",
+    "url": "http://i1.theportalwiki.net/img/9/9a/Defective_Turret_finale02_turret_return_defect_goodbye05.wav"
+  },
+  {
+    "text": "Hey, thanks so much!",
+    "url": "http://i1.theportalwiki.net/img/a/ad/Defective_Turret_finale02_turret_return_defect_goodbye06.wav"
+  },
+  {
+    "text": "Don't be a stranger!",
+    "url": "http://i1.theportalwiki.net/img/c/ca/Defective_Turret_finale02_turret_return_defect_goodbye07.wav"
+  },
+  {
+    "text": "It's been a pleasure!",
+    "url": "http://i1.theportalwiki.net/img/4/48/Defective_Turret_finale02_turret_return_defect_goodbye08.wav"
+  },
+  {
+    "text": "Take me with you? Please?",
+    "url": "http://i1.theportalwiki.net/img/4/44/Defective_Turret_finale02_turret_return_defect_goodbye09.wav"
+  },
+  {
+    "text": "Hey, give 'em hell, sweetheart!",
+    "url": "http://i1.theportalwiki.net/img/9/9c/Defective_Turret_finale02_turret_return_defect_goodbye10.wav"
+  },
+  {
+    "text": "That was fun, wasn't it?",
+    "url": "http://i1.theportalwiki.net/img/c/c0/Defective_Turret_finale02_turret_return_defect_goodbye11.wav"
+  },
+  {
+    "text": "Well, you bested me this time.",
+    "url": "http://i1.theportalwiki.net/img/3/38/Defective_Turret_finale02_turret_return_defect_goodbye12.wav"
+  },
+  {
+    "text": "Touche, young lady, touche.",
+    "url": "http://i1.theportalwiki.net/img/3/3d/Defective_Turret_finale02_turret_return_defect_goodbye13.wav"
+  }
+]
